@@ -81,14 +81,6 @@ namespace Lucky_Number
             result.Show(); // allows for switching between forms.
         }
 
-        private void Days_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
+     
     }
 }
